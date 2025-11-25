@@ -2,7 +2,7 @@
 
 Proyek ini adalah aplikasi **Java Spring Boot** yang dikembangkan untuk memenuhi tugas **Pertemuan 5**. Aplikasi ini menyediakan layanan **REST API** untuk pengelolaan data mahasiswa (CRUD: Create, Read, Update, Delete) dengan menggunakan arsitektur MVC dan JPA (*Java Persistence API*) untuk akses database.
 
-## 📋 Identitas Proyek
+## Identitas Proyek
 
 * **Nama Proyek:** `pert5_50422921_4IA16`
 * **NPM:** 50422921
@@ -10,7 +10,7 @@ Proyek ini adalah aplikasi **Java Spring Boot** yang dikembangkan untuk memenuhi
 * **Framework:** Spring Boot
 * **Build Tool:** Maven
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 * **Java Development Kit (JDK)** (Minimal versi 8, disarankan 11 atau 17)
 * **Spring Boot** (Web, Data JPA)
@@ -20,7 +20,7 @@ Proyek ini adalah aplikasi **Java Spring Boot** yang dikembangkan untuk memenuhi
 
 ---
 
-## ⚙️ Panduan Instalasi & Menjalankan Aplikasi
+## Panduan Instalasi & Menjalankan Aplikasi
 
 Ikuti langkah-langkah berikut untuk menjalankan aplikasi di mesin lokal Anda.
 
