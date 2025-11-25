@@ -59,13 +59,14 @@ Tunggu hingga muncul pesan Tomcat started on port(s): 8080.
 ## Dokumentasi API (Endpoints)
 Aplikasi ini mengekspos endpoint RESTful berikut. Base URL: http://localhost:8080
 
-| HTTP Method,Endpoint,Deskripsi|
-| :--- | :--- |  :--- |
-| GET,/mahasiswa,Menampilkan semua data mahasiswa|
-| GET,/mahasiswa/{id},Menampilkan detail mahasiswa berdasarkan ID|
-| POST,/mahasiswa,Menambahkan data mahasiswa baru|
-| PUT,/mahasiswa/{id},Memperbarui data mahasiswa berdasarkan ID|
-| DELETE,/mahasiswa/{id},Menghapus data mahasiswa berdasarkan ID|
+```
+HTTP Method,Endpoint,Deskripsi
+GET,/mahasiswa,Menampilkan semua data mahasiswa
+GET,/mahasiswa/{id},Menampilkan detail mahasiswa berdasarkan ID
+POST,/mahasiswa,Menambahkan data mahasiswa baru
+PUT,/mahasiswa/{id},Memperbarui data mahasiswa berdasarkan ID
+DELETE,/mahasiswa/{id},Menghapus data mahasiswa berdasarkan ID
+```
 
 ## Contoh Request Body (JSON)
 Gunakan format JSON berikut saat melakukan request POST atau PUT (via Postman/Insomnia).
