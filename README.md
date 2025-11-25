@@ -86,7 +86,7 @@ Tambah / Update Data:
 
 ## Struktur Direktori
 Berikut adalah gambaran struktur folder utama dalam proyek ini:
-``
+```
 pert5_50422921_4IA16
 ├── pom.xml                        # Konfigurasi Dependensi Maven
 ├── mvnw                           # Maven Wrapper (Opsional)
@@ -108,6 +108,6 @@ pert5_50422921_4IA16
 │           ├── application.properties  # Konfigurasi DB & Server
 │           ├── static/                 # File statis (jika ada)
 │           └── templates/              # Template HTML (jika ada)
-``
+```
 
 
